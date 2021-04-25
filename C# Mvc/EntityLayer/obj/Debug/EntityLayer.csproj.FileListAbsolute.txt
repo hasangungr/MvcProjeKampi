@@ -1,0 +1,12 @@
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\C# Mvc\EntityLayer\obj\Debug\EntityLayer.pdb
